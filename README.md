@@ -16,6 +16,14 @@
 
 [![hoyeolee's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1na3e32003509ml3viy5900/project/2571017)](https://github.com/JaeSeoKim/badge42)
 
+# minitalk
+
+[![hoyeolee's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1na3e32003509ml3viy5900/project/2624935)](https://github.com/JaeSeoKim/badge42)
+
 # so_long
 
 [![hoyeolee's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1na3e32003509ml3viy5900/project/2620704)](https://github.com/JaeSeoKim/badge42)
+
+# push_swap
+
+[![hoyeolee's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1na3e32003509ml3viy5900/project/2624934)](https://github.com/JaeSeoKim/badge42)
